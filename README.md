@@ -29,6 +29,8 @@ Here are some tools and languages I use and study:
 ✨ *“Coding, creating, and carrying Filipino pride with every project.”* ✨
 
 ---
-![SobrepenaKenneth's Stats](https://github-readme-stats.vercel.app/api?username=SobrepenaKenneth&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![SobrepenaKenneth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SobrepenaKenneth&theme=vue-dark&hide_border=true)
-![SobrepenaKenneth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SobrepenaKenneth&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SobrepenaKenneth&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SobrepenaKenneth&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobrepenaKenneth&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
