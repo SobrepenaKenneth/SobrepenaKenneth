@@ -1,7 +1,6 @@
 # Dangal Greetings! 👋
 
 I am Sobrepeña, a **BS Computer Science student** at **Pamantasan ng Cabuyao, Philippines**.  
-I believe in **dangal** (honor) and creativity as I explore the world of tech and art.  
 
 ---
 
